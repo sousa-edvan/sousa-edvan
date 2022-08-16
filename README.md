@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sousa-edvan
 - 👀 I’m interested in evething related to computer science. 
-- 🌱 I’m currently learning c++, python. 
-- 💞️ I’m looking to collaborate any projects (python, julia, c++, java)
+- 🌱 I’m currently learning Delphi, Python, Oracle PL-SQL, JavaScript, NodeJS and MongoDB. 
+- 💞️ I’m looking to collaborate any projects (python, JavaScript, NodeJS)
 - 📫 How to reach me edyvvan@gmail.com
 
 <!---
